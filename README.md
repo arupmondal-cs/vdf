@@ -1,4 +1,4 @@
-# This is a private project can't be use by anyone!
+## This is a private project can't be use by anyone!
 
 # Elliptic-Curve-VDFs-CVDFs
 VDFs and CVDFs implementation using Elliptic Curve
